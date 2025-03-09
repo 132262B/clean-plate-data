@@ -6,6 +6,5 @@
 .DS_Store
 *.pem
 
-.env
+/http/http-client.private.env.json
 /.env
-./.env
