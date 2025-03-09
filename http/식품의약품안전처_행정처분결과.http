@@ -1,0 +1,5 @@
+### 행정처분결과 (샘플)
+GET http://openapi.foodsafetykorea.go.kr/api/sample/I0470/json/1/5
+
+### 행정처분결과
+GET http://openapi.foodsafetykorea.go.kr/api/{{FOOD_SAFETY_KOREA_API_KEY}}/I0470/json/1/5
