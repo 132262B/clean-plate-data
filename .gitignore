@@ -8,3 +8,7 @@
 
 /http/http-client.private.env.json
 /.env
+
+# csv
+/*.csv
+/*/*.csv
